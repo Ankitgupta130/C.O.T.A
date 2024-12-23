@@ -57,8 +57,8 @@ With a user-friendly interface and a focus on transparency, C.O.T.A ensures a se
 1. Clone the repository:  
    ```bash
    git clone https://github.com/KaustubhPatil02/C.O.T.A.git
-   cd cota
    ```
+   cd cota
    
 2. Install Dependencies:
    ```
