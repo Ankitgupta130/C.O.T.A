@@ -10,8 +10,10 @@ With a user-friendly interface and a focus on transparency, C.O.T.A ensures a se
 
 ## Table of Contents
 - [Features](#features)  
-- [Tech Stack](#tech-stack)  
-
+- [Tech Stack](#tech-stack)
+- [Getting Started](#getting-started)
+- [Installation ](#installation)
+- [Project Structure](project-structure)
 ---
 
 ## Features
@@ -42,6 +44,7 @@ With a user-friendly interface and a focus on transparency, C.O.T.A ensures a se
   - **Realtime Database**: Instant updates for accommodation availability and bookings.  
 - **Auth0**: Authentication and authorization for secure and scalable user access management.  
 
+---
 
 ## Getting Started
 
@@ -50,4 +53,34 @@ With a user-friendly interface and a focus on transparency, C.O.T.A ensures a se
 - Firebase account for configuration
 - Auth0 account for managing authentication  
 
+### Installation
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/KaustubhPatil02/C.O.T.A.git
+   cd cota
+   ```
+   
+2. Install Dependencies:
+   ```
+   npm i
+   ```
+
+3. Set up Firebase:
+
+  - Create a Firebase project on the Firebase Console.
+  - Enable Authentication and Realtime Database in the Firebase project.
+  - Add your Firebase configuration to the project.
+
+4. Set up Auth0:
+
+  - Create an Auth0 application on the Auth0 Dashboard.
+  - Configure Auth0 to support your login methods (e.g., email, Google).
+  - Add your Auth0 configuration to the project.
+
+5. Start the development server:
+   ```
+    npm start
+   ```
+   ---
+### Project Structure:
 
