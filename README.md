@@ -1,4 +1,4 @@
-# C.O.T.A (Colonizing Online Through Anywhere)
+# C.O.T.A (Colonizing Online Till Anywhere)
 
 C.O.T.A is an innovative online platform that redefines the way people find and book accommodations. Whether you're looking for a short stay, a few hours of rest, or a long-term paying guest (PG) arrangement, C.O.T.A offers flexible and convenient options tailored to your needs.
 
